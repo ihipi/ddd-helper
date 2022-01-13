@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ihipi.dddhelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ihipi.dddhelper.MyBundle
 
 class MyApplicationService {
 

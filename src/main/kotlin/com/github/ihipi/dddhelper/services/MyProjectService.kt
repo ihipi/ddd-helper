@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.ihipi.dddhelper.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ihipi.dddhelper.MyBundle
 
 class MyProjectService(project: Project) {
 
